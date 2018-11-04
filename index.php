@@ -33,7 +33,8 @@
 				<!-- container -->
 				<div class="container">
 					<div class="header-logo">
-						<a href="#"><img src="images/logo.png" alt="" /></a>
+						<!-- <a href="#"><img src="images/logo.png" alt="" /></a> -->
+						<span>Panada</span>
 					</div>
 					<div class="top-nav">
 						<span class="menu">MENU</span>
@@ -115,7 +116,7 @@
 		<!-- agency -->
 		<div id="about" class="agency">
 			<div class="agency-left">
-				<h2>i<span>Freelancer</span> Agency</h2>
+				<h2>i<span>panada</span> Agency</h2>
 				<h4>We Develope <span>Premium</span> & Mobile 
 					<span>Responsive</span> website template for any type of business!
 				</h4>
@@ -674,9 +675,9 @@
 			<!-- container -->
 			<div class="container">
 				<ul>
-					<li><span>LOCATION</span>: Igbalangao, Bugasong, Antique, PH, 5704</li>
-					<li class="p-number"><span>PHONE</span>: 123 456 7890</li>
-					<li><span>EMAIL</span>:<a href="mailto:info@example.com">name@example.com</a></li>
+					<li><span>LOCATION</span>: BASAK KAGUDOY LAPU-LAPU CITY</li>
+					<li class="p-number"><span>PHONE</span>: 09217035927</li>
+					<li><span>EMAIL</span>:<a href="mailto:info@example.com">chensw10@lenovo.com</a></li>
 				</ul>
 			</div>
 			<!-- //container -->
@@ -688,42 +689,35 @@
 			<div class="container">
 				<div class="col-md-6 description-left">
 					<ul>
-						<li><a href="#"><img src="images/flogo.png" alt="" /></a></li>
-						<li class="para">With our theme you no longer limited to predesigned footer layouts, but can create your unique footer using drag & drop builder with any columns varia-tions, any content elements and any colors.</li>
+						<li><a href="#"><img width="150px"  src="images/par.jpg" alt="ALMANETO T. LIBRON " /></a></li>
+						<li class="para">ALMANETO T. LIBRON, General Manager of Cebu City, if you have any needs and questions, please contact our manager. If you have any questions about the technology, you can send an email to our email address. Choose us and make yourself. Contact us to open your Internet age.</li>
 					</ul>
 				</div>
-				<div class="col-md-6 description-right">
-					<h5>General</h5>
-					<div class="border1"> </div>
-					<div class="list">
-						<ul>
-							<li><a href="#">How it works</a></li>
-							<li><a href="#">About</a></li>
-							<li><a href="#">Services</a></li>
-							<li><a href="#">Pricing</a></li>
-							<li><a href="#">Blog</a></li>
-						</ul>
-					</div>
-					<div class="list">
-						<ul>
-							<li><a href="#">Branding Design</a></li>
-							<li><a href="#">Marketing</a></li>
-							<li><a href="#">Web Development</a></li>
-							<li><a href="#">Mobile App Development</a></li>
-							<li><a href="#">Design Innovation</a></li>
-						</ul>
-					</div>
-					<div class="clearfix"> </div>
+<!--  -->
+
+
+	<div class="col-md-6 description-left">
+					<ul>
+						<li><a href="#"><img width="150px"  src="images/par1.jpg" alt="ALMANETO T. LIBRON " /></a></li>
+						<li class="para">Siwei, a senior software development engineer, specializes in website development and app development. For PHP, Python has 5 years of R&D experience. Now serving the lenovo data analysis team. Good at developing enterprise stations, dynamic websites, data analysis, e-commerce websites, linux platforms..</li>
+					</ul>
 				</div>
+
+
+
+
+
+
+
+
+
 				<div class="clearfix"> </div>
 			</div>
 			<!-- //container -->
 		</div>
 		<!-- //description -->
 		<!-- quote -->
-		<div class="quote">
-			<a href="#">GET A QUOTE</a>
-		</div>
+
 		<!-- //quote -->
 		<!-- footer -->
 		<div class="footer">
